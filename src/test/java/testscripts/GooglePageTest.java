@@ -10,6 +10,7 @@ public class GooglePageTest {
 WebDriver driver = new ChromeDriver();
 driver.get("https://www.google.com/");
 System.out.println("Hi");
+System.out.println("Hi");
 	}
 
 }
